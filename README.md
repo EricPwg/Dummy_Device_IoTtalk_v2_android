@@ -1,6 +1,6 @@
 # Dummy_Device_IoTtalk_v2_android
 兩種 Android 版本的範例 activity
-* Dummy Device Android
+* Dummy Device
   * IDF 依照 push interval 數值自動 push。
 * Dummy Device Event Driven
   * IDF 需要 push 時，透過 dan.push。

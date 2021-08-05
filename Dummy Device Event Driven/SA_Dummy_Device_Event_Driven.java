@@ -1,4 +1,4 @@
-package com.example.dantest;
+//package com.example.dantest;
 
 import android.app.Activity;
 import android.content.Context;
